@@ -10,7 +10,7 @@
         {
             foreach (var i in GetProductsByName(products))
             {
-                string StateOfWeight = i.Weight == 0 ? "N/A" : i.Weight.ToString();
+                string StateOfWeight = i.Weight == 0 ? "N/A" : i.Weight.ToString() + "g";
 
                 Console.WriteLine("Name : {0} \nPrice : ${1}  \nWeight {2} \nDescription : {3}... \n ", i.Name, i.Price, StateOfWeight, i.Description.Substring(0,10));
             }
