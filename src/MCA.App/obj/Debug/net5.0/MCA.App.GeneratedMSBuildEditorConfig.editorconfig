@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = MCA.App
-build_property.ProjectDir = D:\Developement\Github\DutchThreat\MCA.App\src\MCA.App\
+build_property.ProjectDir = D:\Developement\Github\MCA.App\src\MCA.App\

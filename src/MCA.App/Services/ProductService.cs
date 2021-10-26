@@ -31,6 +31,7 @@
 
             int countd = 0;
             int counti = 0;
+
             foreach (var i in products)
             {
                 if (i.Domestic)
@@ -44,8 +45,9 @@
                     counti += 1;
                 }
             }
-            Console.WriteLine("Domestic cost : ${0} \nImported cost ${1}", priced, pricei);
-            Console.WriteLine("Domestic count : {0} \nImported count {1}", priced, pricei);
+
+            Console.WriteLine("Domestic cost : $ {0} \nImported price : $ {1}", priced, pricei);
+            Console.WriteLine("Domestic count : {0} \nImported count : {1}", countd, counti);
         }
     }
 }

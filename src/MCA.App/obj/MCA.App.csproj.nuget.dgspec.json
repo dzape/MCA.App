@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Developement\\Github\\DutchThreat\\MCA.App\\src\\MCA.App\\MCA.App.csproj": {}
+    "D:\\Developement\\Github\\MCA.App\\src\\MCA.App\\MCA.App.csproj": {}
   },
   "projects": {
-    "D:\\Developement\\Github\\DutchThreat\\MCA.App\\src\\MCA.App\\MCA.App.csproj": {
+    "D:\\Developement\\Github\\MCA.App\\src\\MCA.App\\MCA.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Developement\\Github\\DutchThreat\\MCA.App\\src\\MCA.App\\MCA.App.csproj",
+        "projectUniqueName": "D:\\Developement\\Github\\MCA.App\\src\\MCA.App\\MCA.App.csproj",
         "projectName": "MCA.App",
-        "projectPath": "D:\\Developement\\Github\\DutchThreat\\MCA.App\\src\\MCA.App\\MCA.App.csproj",
+        "projectPath": "D:\\Developement\\Github\\MCA.App\\src\\MCA.App\\MCA.App.csproj",
         "packagesPath": "C:\\Users\\dzape\\.nuget\\packages\\",
-        "outputPath": "D:\\Developement\\Github\\DutchThreat\\MCA.App\\src\\MCA.App\\obj\\",
+        "outputPath": "D:\\Developement\\Github\\MCA.App\\src\\MCA.App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dzape\\AppData\\Roaming\\NuGet\\NuGet.Config",
