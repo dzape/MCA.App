@@ -12,7 +12,7 @@
             {
                 string StateOfWeight = i.Weight == 0 ? "N/A" : i.Weight.ToString();
 
-                Console.WriteLine("Name : {0} \nPrice : ${1}  \nWeight {2} \nDescription : {3} \n", i.Name, i.Price, StateOfWeight, i.Description);
+                Console.WriteLine("Name : {0} \nPrice : ${1}  \nWeight {2} \nDescription : {3}... \n ", i.Name, i.Price, StateOfWeight, i.Description.Substring(0,10));
             }
             IsDomestic(products);
         }
